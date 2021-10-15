@@ -1,5 +1,7 @@
 # HTML - Cheat sheet
-<!-- > Outline a brief description of your project. -->
+
+
+To see the project click [here](https://lfrancos.github.io/HTML---Cheat-sheet/).
 <!-- > Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
@@ -9,8 +11,8 @@
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [Usage](#usage) -->
 <!-- * [Setup](#setup) -->
+<!-- * [Usage](#usage) -->
 <!-- * [Screenshots](#screenshots) -->
 <!-- * [Features](#features) -->
 <!-- * [License](#license) -->
@@ -39,10 +41,8 @@ If you have screenshots you'd like to share, include them here. -->
 
 
 <!-- ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project. -->
-
+ -->
 
 <!-- ## Usage
 How does one go about using it?
